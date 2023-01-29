@@ -50,6 +50,7 @@ Use Python to extract, transform, and load data into a relational database
 ## Findings
 - The Chicago Transit Authority has the highest number of employees indebted to the department, at 22.8 percent.
 - Something alarming is how much debt the Chicago Board Of Education faces with its employees although it is a small percentage, it is a very large total figure.
+- The way in which the departments are organized for indebtedness is different than the way salaries are reported, so if one does not have insights into all of the different employees and departments, then some information may be lost while interpreting the information
 
 ## Sources
 
