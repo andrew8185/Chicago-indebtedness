@@ -45,7 +45,7 @@ Use Python to extract, transform, and load data into a relational database
 
 ![App Screenshot](https://raw.githubusercontent.com/gnimeth/project2/main/Output/Screenshot_20230129_052035.png)
 
-- Save newly created dataframe to CSV
+- Saved newly created dataframe to CSV
     
 ## Findings
 - The Chicago Transit Authority has the highest number of employees indebted to the department, at 22.8 percent.
