@@ -33,9 +33,9 @@ Citations:
 
 # PROJECT REPORT
 The data was extracted and transformed as follows:
-    -Datasets cited above were downloaded as CSVs from the Chicago Data Portal as uploaded as Pandas Dataframes for manipulations.
-    -In order to merge the dataframes in order to compare, manipulations were required.This included changing Department names to be the same between data sets in order to facilitate merging without losing any information for departments.
-    -To expand the dataset's usefulness post-merged, we found the yearly sum of salaries of each department and compared to total indebtedness.
+      -Datasets cited above were downloaded as CSVs from the Chicago Data Portal as uploaded as Pandas Dataframes for manipulations.
+      -In order to merge the dataframes in order to compare, manipulations were required.This included changing Department names to be the same between data sets in order to facilitate merging without losing any information for departments.
+      -To expand the dataset's usefulness post-merged, we found the yearly sum of salaries of each department and compared to total indebtedness.
 
 
 This topic was chosen at a professional level because the analyses that could be made could have relevance to the city and their budgeting as well as how employee indebtedness is handled.
